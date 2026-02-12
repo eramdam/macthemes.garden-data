@@ -1,8 +1,10 @@
+import crypto from "node:crypto";
 import Airtable, { type FieldSet, type Records } from "airtable";
 import async from "async";
 import fs from "fs-extra";
 // @ts-expect-error
 import { AssetCache } from "@11ty/eleventy-fetch";
+import { compact, uniq } from "es-toolkit";
 
 const airtableCache = new AssetCache("garden.macthemes.airtable");
 
@@ -89,11 +91,44 @@ const base = new Airtable({ apiKey: process.env.AIRTABLE_TOKEN || "" }).base(
   }
 
   await fs.writeFile(
-    "src/themes/airtable.json",
+    "airtable.json",
     JSON.stringify(normalizedRecordsWithFilePaths, null, 2),
     "utf-8",
   );
+
+  const archives = uniq(
+    compact(normalizedRecordsWithFilePaths.map((r) => r.archiveFilename)),
+  );
+  async.mapLimit<string, void>(archives, 10, async (record: string) => {
+    return downloadArchive(record);
+  });
 })();
+
+async function downloadArchive(archiveFilename: string) {
+  try {
+    const md5File = await fetch(
+      `https://files.macthemes.garden/${archiveFilename}.md5`,
+    );
+    const md5Remote = (await md5File.text()).split(" ")[0]?.trim();
+    const filepath = `archives/${archiveFilename}`;
+
+    if (await fs.exists(filepath)) {
+      const md5OfExisting = await getMd5HashOfFile(filepath);
+      if (md5OfExisting === md5Remote) {
+        console.log(`[INFO] skipped ${archiveFilename}`);
+        return;
+      }
+    }
+    const response = await fetch(
+      `https://files.macthemes.garden/${archiveFilename}`,
+    );
+    await fs.writeFile(filepath, Buffer.from(await response.arrayBuffer()));
+    console.log(`[INFO] downloaded ${archiveFilename}`);
+  } catch (e) {
+    console.log("[ERROR] could not download " + archiveFilename);
+    console.error(e);
+  }
+}
 
 async function downloadAttachment(
   attachment: Airtable.Attachment | undefined,
@@ -104,7 +139,7 @@ async function downloadAttachment(
   }
   const filename =
     `${prefix}${attachment.id}-${attachment.filename}`.toLowerCase();
-  const filepath = `public/themes/attachments/${filename}`;
+  const filepath = `attachments/${filename}`;
 
   if (await fs.exists(filepath)) {
     return { id: attachment.id, filepath, filename: attachment.filename };
@@ -132,4 +167,21 @@ async function grabRawRecords(): Promise<Records<FieldSet>> {
   await airtableCache.save(records, "json");
 
   return records;
+}
+
+function getMd5HashOfFile(path: string): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const output = crypto.createHash("md5");
+    const input = fs.createReadStream(path);
+
+    input.on("error", (err) => {
+      reject("");
+    });
+
+    output.once("readable", () => {
+      resolve(output.read().toString("hex"));
+    });
+
+    input.pipe(output);
+  });
 }

@@ -25,6 +25,7 @@
     "@types/node": "^25.2.3",
     "airtable": "^0.12.2",
     "async": "^3.2.6",
+    "es-toolkit": "^1.44.0",
     "fs-extra": "^11.3.3",
     "prettier": "^3.8.1",
     "typescript": "^5.9.3"
