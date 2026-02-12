@@ -109,7 +109,8 @@ async function downloadArchive(archiveFilename: string) {
     const md5File = await fetch(
       `https://files.macthemes.garden/${archiveFilename}.md5`,
     );
-    const md5Remote = (await md5File.text()).split(" ")[0]?.trim();
+    const md5FileContent = await md5File.text();
+    const md5Remote = md5FileContent.split(" ")[0]?.trim();
     const filepath = `archives/${archiveFilename}`;
 
     if (await fs.exists(filepath)) {
@@ -123,6 +124,7 @@ async function downloadArchive(archiveFilename: string) {
       `https://files.macthemes.garden/${archiveFilename}`,
     );
     await fs.writeFile(filepath, Buffer.from(await response.arrayBuffer()));
+    await fs.writeFile(`${filepath}.md5`, md5FileContent);
     console.log(`[INFO] downloaded ${archiveFilename}`);
   } catch (e) {
     console.log("[ERROR] could not download " + archiveFilename);
