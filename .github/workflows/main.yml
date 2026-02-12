@@ -19,7 +19,7 @@ jobs:
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN}}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID}}
-        run: touch .env && npm run data:airtable && rm .env
+        run: touch .env && npm run airtable && rm .env
       - uses: EndBug/add-and-commit@v9
         with:
           author_name: 🤖 Damien's Robot
