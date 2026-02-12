@@ -1,0 +1,32 @@
+{
+  "name": "macthemes.garden-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eramdam/macthemes.garden-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/eramdam/macthemes.garden-data/issues"
+  },
+  "homepage": "https://github.com/eramdam/macthemes.garden-data#readme",
+  "dependencies": {
+    "@11ty/eleventy-fetch": "^5.1.1",
+    "@types/async": "^3.2.25",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^25.2.3",
+    "airtable": "^0.12.2",
+    "async": "^3.2.6",
+    "fs-extra": "^11.3.3",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3"
+  }
+}
