@@ -161,7 +161,7 @@ async function grabRawRecords(): Promise<Records<FieldSet>> {
   }
   const records = await base("Kaleidoscope Schemes")
     .select({
-      maxRecords: 100,
+      maxRecords: 5_000,
       view: "Grid view",
     })
     .all();
