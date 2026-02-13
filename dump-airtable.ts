@@ -15,6 +15,7 @@ const base = new Airtable({ apiKey: process.env.AIRTABLE_TOKEN || "" }).base(
 (async () => {
   const records = await grabRawRecords();
   const existingAttachments = fs.globSync("public/themes/attachments/*.png");
+  const existingArchives = fs.globSync("public/themes/archives/*");
   const normalizedRecords = records.map((record) => {
     return {
       name: record.fields["Name"] as string,
@@ -79,15 +80,21 @@ const base = new Airtable({ apiKey: process.env.AIRTABLE_TOKEN || "" }).base(
       );
     });
 
-  const allFiles = normalizedRecordsWithFilePaths.flatMap((r) => {
-    return [r.about, r.ksaSampler, r.showcase];
-  });
-  const filesToDelete = existingAttachments
+  const archives = uniq(
+    compact(normalizedRecordsWithFilePaths.map((r) => r.archiveFilename)),
+  );
+  const allFiles = normalizedRecordsWithFilePaths
+    .flatMap((r) => {
+      return [r.about, r.ksaSampler, r.showcase];
+    })
+    .concat(archives);
+  const filesToDelete = [...existingAttachments, ...existingArchives]
     .filter((f): f is string => Boolean(f))
     .filter((file) => !allFiles.includes(file));
 
   for (const file of filesToDelete) {
     await fs.remove(file);
+    console.log(`[INFO] deleted ${file}`);
   }
 
   await fs.writeFile(
@@ -96,9 +103,6 @@ const base = new Airtable({ apiKey: process.env.AIRTABLE_TOKEN || "" }).base(
     "utf-8",
   );
 
-  const archives = uniq(
-    compact(normalizedRecordsWithFilePaths.map((r) => r.archiveFilename)),
-  );
   async.mapLimit<string, void>(archives, 10, async (record: string) => {
     return downloadArchive(record);
   });
