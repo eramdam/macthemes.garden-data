@@ -41216,5 +41216,137 @@
     "ksaSampler": "attachments/ksa-sampler-attgqnqh4nvrazb7a-image.png",
     "created": "2026-04-26T06:25:09.000Z",
     "archiveFilename": "techtimeplatinumslim.sit"
+  },
+  {
+    "name": "Tech-Noel",
+    "authors": "Stephen K. Crocker",
+    "year": "1997",
+    "about": "attachments/about-attvrubczphdhwmal-image.png",
+    "showcase": "attachments/showcase-attceafkvmjyohmyh-image.png",
+    "archiveFileName2": "tech-noel.sit",
+    "ksaSampler": "attachments/ksa-sampler-attcvtufsbaidb9ag-image.png",
+    "created": "2026-04-26T06:25:09.000Z",
+    "archiveFilename": "tech-noel.sit"
+  },
+  {
+    "name": "TechFlux",
+    "authors": "David W. Neal",
+    "year": "2001",
+    "about": "attachments/about-attp18taekmxe06ah-image.png",
+    "showcase": "attachments/showcase-attwncnejmy3usfol-image.png",
+    "archiveFileName2": "techflux.sit",
+    "ksaSampler": "attachments/ksa-sampler-attxca1epehrwdzqq-image.png",
+    "created": "2026-04-26T06:25:09.000Z",
+    "archiveFilename": "techflux.sit"
+  },
+  {
+    "name": "TechFlux Blue",
+    "authors": "David W. Neal",
+    "year": "1998",
+    "about": "attachments/about-atttlxcnptxcjcjud-image.png",
+    "showcase": "attachments/showcase-attc5hen8pryfwzef-image.png",
+    "archiveFileName2": "techfluxblue.sit",
+    "ksaSampler": "attachments/ksa-sampler-attd1xxz4i7wquvpb-image.png",
+    "created": "2026-04-26T06:25:10.000Z",
+    "archiveFilename": "techfluxblue.sit"
+  },
+  {
+    "name": "Techforce 2.0",
+    "authors": "William Neidow",
+    "year": "2000",
+    "about": "attachments/about-attetrfhtevtopdzo-image.png",
+    "showcase": "attachments/showcase-attdcobisyzhgnl24-image.png",
+    "archiveFileName2": "techforce.sit",
+    "ksaSampler": "attachments/ksa-sampler-attdzunkvihf1shop-image.png",
+    "created": "2026-05-04T00:40:09.000Z",
+    "archiveFilename": "techforce.sit"
+  },
+  {
+    "name": "Techno",
+    "authors": "Bryan James Gatten",
+    "year": "1998",
+    "about": "attachments/about-att23iqz8uvv5juff-image.png",
+    "showcase": "attachments/showcase-atty3fjbltk3khnys-image.png",
+    "archiveFileName2": "technobrian.sit",
+    "ksaSampler": "attachments/ksa-sampler-attjzgxhdpt2lob2l-image.png",
+    "created": "2026-05-04T00:40:10.000Z",
+    "archiveFilename": "technobrian.sit"
+  },
+  {
+    "name": "Techno: Black and Yellow",
+    "authors": "Gary Hamburg",
+    "year": "1999",
+    "about": "attachments/about-atttkj8zf4nbl0uei-image.png",
+    "showcase": "attachments/showcase-attrcnmzc35oqpqms-image.png",
+    "archiveFileName2": "technogary.sit",
+    "ksaSampler": "attachments/ksa-sampler-attjcnoni14jsicz8-image.png",
+    "created": "2026-05-04T00:40:10.000Z",
+    "archiveFilename": "technogary.sit"
+  },
+  {
+    "name": "Techno!",
+    "authors": "Adam Block and George Cooper",
+    "year": "1999",
+    "about": "attachments/about-attaa5apk7lfdg7ko-image.png",
+    "showcase": "attachments/showcase-att0baqkpkgcfgniy-image.png",
+    "archiveFileName2": "techno!.sit",
+    "ksaSampler": "attachments/ksa-sampler-attttxjhwwzlcy60e-image.png",
+    "created": "2026-05-04T00:40:10.000Z",
+    "archiveFilename": "techno!.sit"
+  },
+  {
+    "name": "TechnoCore 2.5",
+    "authors": "William Neidow",
+    "year": "1999",
+    "about": "attachments/about-att6rjlqhoit99iar-image.png",
+    "showcase": "attachments/showcase-att1wtvhxkzulrk5f-image.png",
+    "archiveFileName2": "technocore.sit",
+    "ksaSampler": "attachments/ksa-sampler-attyquucig0wxolrx-image.png",
+    "created": "2026-05-04T00:40:10.000Z",
+    "archiveFilename": "technocore.sit"
+  },
+  {
+    "name": "Technocracy©",
+    "authors": "De Moss Design",
+    "year": "1999",
+    "about": "attachments/about-attshdia1wpahwjjd-image.png",
+    "showcase": "attachments/showcase-attbqzeglzisuibi7-image.png",
+    "archiveFileName2": "technocracya.sit",
+    "ksaSampler": "attachments/ksa-sampler-attpjja4krpkxpgkl-image.png",
+    "created": "2026-05-04T00:49:45.000Z",
+    "archiveFilename": "technocracya.sit"
+  },
+  {
+    "name": "Technocracy©(b)",
+    "authors": "De Moss Design",
+    "year": "1999",
+    "about": "attachments/about-att6aytplaifaecue-image.png",
+    "showcase": "attachments/showcase-attupvkelkknnkpe6-image.png",
+    "archiveFileName2": "technocracyb.sit",
+    "ksaSampler": "attachments/ksa-sampler-attw4gg9t6qlujren-image.png",
+    "created": "2026-05-04T00:49:45.000Z",
+    "archiveFilename": "technocracyb.sit"
+  },
+  {
+    "name": "TechTonic Glass",
+    "authors": "Kevin Douglas",
+    "year": "1999",
+    "about": "attachments/about-att7svbd3nhiasrru-image.png",
+    "showcase": "attachments/showcase-attbxzshk7fg7sapp-image.png",
+    "archiveFileName2": "techtonicglass.sit",
+    "ksaSampler": "attachments/ksa-sampler-attwkrpuoke6w2lp4-image.png",
+    "created": "2026-05-04T00:49:45.000Z",
+    "archiveFilename": "techtonicglass.sit"
+  },
+  {
+    "name": "TechTron",
+    "authors": "Stephen Neal and David Neal",
+    "year": "1998",
+    "about": "attachments/about-attta3l0blsntnfoa-image.png",
+    "showcase": "attachments/showcase-attsww4m3cahzxqbj-image.png",
+    "archiveFileName2": "techtron.sit",
+    "ksaSampler": "attachments/ksa-sampler-atthwjam15iojpvut-image.png",
+    "created": "2026-05-04T00:49:45.000Z",
+    "archiveFilename": "techtron.sit"
   }
 ]
