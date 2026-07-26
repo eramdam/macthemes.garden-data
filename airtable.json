@@ -46721,5 +46721,60 @@
     "ksaSampler": "attachments/ksa-sampler-att54afgx0hykrtcp-image.png",
     "created": "2026-07-21T02:41:04.000Z",
     "archiveFilename": "sigh.sit"
+  },
+  {
+    "name": "4 Directions Blue",
+    "authors": "John Eichstedt",
+    "year": "1999",
+    "about": "attachments/about-attic7m4b32ykkcet-image.png",
+    "showcase": "attachments/showcase-attpyrtccoho33bir-image.png",
+    "archiveFileName2": "4directions.sit",
+    "ksaSampler": "attachments/ksa-sampler-att6kwvuulhvcxkle-image.png",
+    "created": "2026-07-21T02:41:04.000Z",
+    "archiveFilename": "4directions.sit"
+  },
+  {
+    "name": "4 Directions Brown",
+    "authors": "John Eichstedt",
+    "year": "1999",
+    "about": "attachments/about-attmzawlmfy8rvjom-image.png",
+    "showcase": "attachments/showcase-atto33pmv3acqwg3h-image.png",
+    "archiveFileName2": "4directions.sit",
+    "ksaSampler": "attachments/ksa-sampler-att4z17moulw0hmtm-image.png",
+    "created": "2026-07-21T02:41:04.000Z",
+    "archiveFilename": "4directions.sit"
+  },
+  {
+    "name": "4 Directions Green",
+    "authors": "John Eichstedt",
+    "year": "1999",
+    "about": "attachments/about-att4vgcnruuuxiw9q-image.png",
+    "showcase": "attachments/showcase-attqm8u5b9r4lnezr-image.png",
+    "archiveFileName2": "4directions.sit",
+    "ksaSampler": "attachments/ksa-sampler-att3vcf1q11eygnko-image.png",
+    "created": "2026-07-21T02:41:04.000Z",
+    "archiveFilename": "4directions.sit"
+  },
+  {
+    "name": "Aardvark Professional",
+    "authors": "BouncyWare",
+    "year": "1998",
+    "about": "attachments/about-attbedizub2gsqrt1-image.png",
+    "showcase": "attachments/showcase-att7clud11fhe4rjs-image.png",
+    "archiveFileName2": "aardvarkprofessional.sit",
+    "ksaSampler": "attachments/ksa-sampler-attm5gqfmcas8oj3t-image.png",
+    "created": "2026-07-25T17:16:28.000Z",
+    "archiveFilename": "aardvarkprofessional.sit"
+  },
+  {
+    "name": "AfterStep 3.0",
+    "authors": "Ken Yaecker",
+    "year": "1999",
+    "about": "attachments/about-attfwzsd1ixlx7oj0-image.png",
+    "showcase": "attachments/showcase-attr5z0ow7muxup2c-image.png",
+    "archiveFileName2": "afterstep.sit",
+    "ksaSampler": "attachments/ksa-sampler-attk7xmrdfr2spll2-image.png",
+    "created": "2026-07-25T17:16:29.000Z",
+    "archiveFilename": "afterstep.sit"
   }
 ]
