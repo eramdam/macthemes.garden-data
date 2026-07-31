@@ -46750,7 +46750,7 @@
     "about": "attachments/about-att4vgcnruuuxiw9q-image.png",
     "showcase": "attachments/showcase-attqm8u5b9r4lnezr-image.png",
     "archiveFileName2": "4directions.sit",
-    "ksaSampler": "attachments/ksa-sampler-att3vcf1q11eygnko-image.png",
+    "ksaSampler": "attachments/ksa-sampler-att5vvj7jwfyxqrio-image.png",
     "created": "2026-07-21T02:41:04.000Z",
     "archiveFilename": "4directions.sit"
   },
@@ -46793,10 +46793,10 @@
     "year": "2001",
     "about": "attachments/about-attqgbh7whghnh8ov-image.png",
     "showcase": "attachments/showcase-attf7dd55wo4fnjbk-image.png",
-    "archiveFileName2": "apblue.sit",
+    "archiveFileName2": "apbblue.sit",
     "ksaSampler": "attachments/ksa-sampler-atttzfe1gu01wbuuw-image.png",
     "created": "2026-07-25T17:16:29.000Z",
-    "archiveFilename": "apblue.sit"
+    "archiveFilename": "apbblue.sit"
   },
   {
     "name": "Aqua Moon \"SilentDeep\"",
@@ -47035,10 +47035,10 @@
     "year": "1999",
     "about": "attachments/about-attqj2vbiqg3b66xq-image.png",
     "showcase": "attachments/showcase-att2qakfsrmntus3g-image.png",
-    "archiveFileName2": "goldrush.siot",
+    "archiveFileName2": "goldrush.sit",
     "ksaSampler": "attachments/ksa-sampler-attafr2xctyshxv5i-image.png",
     "created": "2026-07-29T22:54:44.000Z",
-    "archiveFilename": "goldrush.siot"
+    "archiveFilename": "goldrush.sit"
   },
   {
     "name": "Good Tidings",
@@ -47134,10 +47134,10 @@
     "year": "2000",
     "about": "attachments/about-atti7yovi2omc2tqv-image.png",
     "showcase": "attachments/showcase-attvu2rix3iwk9nv3-image.png",
-    "archiveFileName2": "greeyneyweeney.sit",
+    "archiveFileName2": "greeneyweeney.sit",
     "ksaSampler": "attachments/ksa-sampler-att1ol3nhoqigxe9u-image.png",
     "created": "2026-07-29T23:05:49.000Z",
-    "archiveFilename": "greeyneyweeney.sit"
+    "archiveFilename": "greeneyweeney.sit"
   },
   {
     "name": "Green Slime",
@@ -47765,5 +47765,71 @@
     "ksaSampler": "attachments/ksa-sampler-attikw06etrjj3mre-image.png",
     "created": "2026-07-30T00:34:26.000Z",
     "archiveFilename": "planets.sit"
+  },
+  {
+    "name": "Saturn",
+    "authors": "Simon Lawson",
+    "year": "1997",
+    "about": "attachments/about-atttstbzdmeyy3pmt-image.png",
+    "showcase": "attachments/showcase-attdc4j3yzoetforn-image.png",
+    "archiveFileName2": "planets.sit",
+    "ksaSampler": "attachments/ksa-sampler-attlr7waahchxs67d-image.png",
+    "created": "2026-07-30T00:34:26.000Z",
+    "archiveFilename": "planets.sit"
+  },
+  {
+    "name": "Venus",
+    "authors": "Simon Lawson",
+    "year": "1997",
+    "about": "attachments/about-attaychvxuzt2bj8y-image.png",
+    "showcase": "attachments/showcase-att3tyswzeoaicvic-image.png",
+    "archiveFileName2": "planets.sit",
+    "ksaSampler": "attachments/ksa-sampler-attgib0rffrqxfzsy-image.png",
+    "created": "2026-07-30T00:56:52.000Z",
+    "archiveFilename": "planets.sit"
+  },
+  {
+    "name": "PowerBook OS 2.1",
+    "authors": "Mike Balonek",
+    "year": "2000",
+    "about": "attachments/about-attts3sdxfz4v3p4m-image.png",
+    "showcase": "attachments/showcase-atthko9aamu7tn5ki-image.png",
+    "archiveFileName2": "powerbookos.sit",
+    "ksaSampler": "attachments/ksa-sampler-attjrgumligcjq5hs-image.png",
+    "created": "2026-07-30T00:56:53.000Z",
+    "archiveFilename": "powerbookos.sit"
+  },
+  {
+    "name": "Sleek Grey",
+    "authors": "Michael O'Brien",
+    "year": "1998",
+    "about": "attachments/about-attwov9d5g16i7ibq-image.png",
+    "showcase": "attachments/showcase-attusogx4fjg2m2dy-image.png",
+    "archiveFileName2": "sleekgrey.sit",
+    "ksaSampler": "attachments/ksa-sampler-attgtbjav9lqq4iqk-image.png",
+    "created": "2026-07-30T00:56:53.000Z",
+    "archiveFilename": "sleekgrey.sit"
+  },
+  {
+    "name": "TealGUI",
+    "authors": "Mike Balonek",
+    "year": "2000",
+    "about": "attachments/about-attczujcpz8ax9v6a-image.png",
+    "showcase": "attachments/showcase-att2sv062t19bxitv-image.png",
+    "archiveFileName2": "tealgui.sit",
+    "ksaSampler": "attachments/ksa-sampler-att2dnvd93eqvsbhk-image.png",
+    "created": "2026-07-30T00:28:11.000Z",
+    "archiveFilename": "tealgui.sit"
+  },
+  {
+    "name": "Younameit II Plus",
+    "authors": "M.C. Amons",
+    "year": "1999",
+    "about": "attachments/about-attfufuivdeg5bcsp-image.png",
+    "showcase": "attachments/showcase-attqlmmichhfb6eua-image.png",
+    "archiveFileName2": "younameitiiplus.sit",
+    "ksaSampler": "attachments/ksa-sampler-attjcz2vederxcspb-image.png",
+    "created": "2026-07-30T01:02:16.000Z",
+    "archiveFilename": "younameitiiplus.sit"
   }
 ]
