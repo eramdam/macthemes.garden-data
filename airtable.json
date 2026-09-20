@@ -42,7 +42,6 @@
   },
   {
     "name": "AnonA-V2 Gizmo2",
-    "authors": "Dragon Tongue",
     "year": "2002",
     "about": "attachments/about-att5kgzl9zx6yfobk-image.png",
     "showcase": "attachments/showcase-attct3jhj5xefilkq-image.png",
@@ -47826,5 +47825,293 @@
     "ksaSampler": "attachments/ksa-sampler-attgib0rffrqxfzsy-image.png",
     "created": "2026-07-30T00:56:52.000Z",
     "archiveFilename": "planets.sit"
+  },
+  {
+    "name": "Blockers II",
+    "year": "1999",
+    "about": "attachments/about-atte3vlno4wmffouh-image.png",
+    "showcase": "attachments/showcase-atteymu5zlasz9vpp-image.png",
+    "archiveFileName2": "blockersii.sit",
+    "ksaSampler": "attachments/ksa-sampler-attczzfauq1tfl5mt-image.png",
+    "created": "2026-07-30T01:02:17.000Z",
+    "archiveFilename": "blockersii.sit"
+  },
+  {
+    "name": "Blue Arrows",
+    "year": "1998",
+    "about": "attachments/about-attrnat0lej7xt9wk-image.png",
+    "showcase": "attachments/showcase-attz0f64w8ns9hgzh-image.png",
+    "archiveFileName2": "bluearrowscarl.sit",
+    "ksaSampler": "attachments/ksa-sampler-attcsnu3zn73v0esf-image.png",
+    "created": "2026-07-30T01:02:17.000Z",
+    "archiveFilename": "bluearrowscarl.sit"
+  },
+  {
+    "name": "Blue Moon",
+    "authors": "Riverbed Software",
+    "year": "1999",
+    "about": "attachments/about-attgtihdphaqjsdqm-image.png",
+    "showcase": "attachments/showcase-attdewvdb9ccpbcqz-image.png",
+    "archiveFileName2": "bluemoongem.sit",
+    "ksaSampler": "attachments/ksa-sampler-attxicnonssjsoimd-image.png",
+    "created": "2026-07-30T01:02:17.000Z",
+    "archiveFilename": "bluemoongem.sit"
+  },
+  {
+    "name": "Carls Gone Crazy",
+    "year": "1998",
+    "about": "attachments/about-attgibuhc5arwxncr-image.png",
+    "showcase": "attachments/showcase-attkjidrjs5fucav4-image.png",
+    "archiveFileName2": "carlsgonecrazy.sit",
+    "ksaSampler": "attachments/ksa-sampler-attqfplbmiaok3rzn-image.png",
+    "created": "2026-07-30T01:02:17.000Z",
+    "archiveFilename": "carlsgonecrazy.sit"
+  },
+  {
+    "name": "DT •soft grey Fe",
+    "authors": "Dragon Tongue",
+    "year": "2002",
+    "about": "attachments/about-attany0wqzvscqveo-image.png",
+    "showcase": "attachments/showcase-attx7g1ioavz3f128-image.png",
+    "archiveFileName2": "dtsoftgreyfe.sit",
+    "ksaSampler": "attachments/ksa-sampler-attxhrgu3ejhbr2ze-image.png",
+    "created": "2026-09-19T21:59:31.000Z",
+    "archiveFilename": "dtsoftgreyfe.sit"
+  },
+  {
+    "name": "DT •Talmi Gold",
+    "authors": "Dragon Tongue",
+    "year": "2002",
+    "about": "attachments/about-attblqefum8c8bzhn-image.png",
+    "showcase": "attachments/showcase-attiggairbb7yikba-image.png",
+    "archiveFileName2": "dttalmigold.sit",
+    "ksaSampler": "attachments/ksa-sampler-atthlq6lsvdqkvyzx-image.png",
+    "created": "2026-09-19T21:59:35.000Z",
+    "archiveFilename": "dttalmigold.sit"
+  },
+  {
+    "name": "DT •Talmi Green",
+    "authors": "Dragon Tongue",
+    "year": "2002",
+    "about": "attachments/about-att5mt6rbze2j8cts-image.png",
+    "showcase": "attachments/showcase-attpolfijbzb6juvd-image.png",
+    "archiveFileName2": "dttalmigreenolderthantime.sit",
+    "ksaSampler": "attachments/ksa-sampler-attlluegi9fuck5mr-image.png",
+    "created": "2026-09-19T21:59:35.000Z",
+    "archiveFilename": "dttalmigreenolderthantime.sit"
+  },
+  {
+    "name": "DT •Talmi Old",
+    "authors": "Dragon Tongue",
+    "year": "2002",
+    "about": "attachments/about-atte8xoes86qhyf09-image.png",
+    "showcase": "attachments/showcase-attmzfyojybk08kgw-image.png",
+    "archiveFileName2": "dttalmiold.sit",
+    "ksaSampler": "attachments/ksa-sampler-attrk7mol2hilujr4-image.png",
+    "created": "2026-09-19T21:59:36.000Z",
+    "archiveFilename": "dttalmiold.sit"
+  },
+  {
+    "name": "Funshine",
+    "year": "1999",
+    "about": "attachments/about-attl8p0uduzdzd5pu-image.png",
+    "showcase": "attachments/showcase-attpvnk0ut8kseko6-image.png",
+    "archiveFileName2": "funshine.sit",
+    "ksaSampler": "attachments/ksa-sampler-attwq0bwzbmdzwtqy-image.png",
+    "created": "2026-09-19T21:59:36.000Z",
+    "archiveFilename": "funshine.sit"
+  },
+  {
+    "name": "Garden",
+    "authors": "Yasuo \"wyz\" Suzuki",
+    "year": "1998",
+    "about": "attachments/about-atteuie1xtitbytfl-image.png",
+    "showcase": "attachments/showcase-attnyhnmpkgwmhaq4-image.png",
+    "archiveFileName2": "gardenyasuo.sit",
+    "ksaSampler": "attachments/ksa-sampler-attfzcqzirdkfmfbi-image.png",
+    "created": "2026-09-19T21:59:36.000Z",
+    "archiveFilename": "gardenyasuo.sit"
+  },
+  {
+    "name": "GG&Y",
+    "year": "1999",
+    "about": "attachments/about-attv72bkaigikf1v0-image.png",
+    "showcase": "attachments/showcase-attdqsqtszjpzsjy3-image.png",
+    "archiveFileName2": "ggandy.sit",
+    "ksaSampler": "attachments/ksa-sampler-attbrrpijs7wjylyf-image.png",
+    "created": "2026-09-19T21:59:36.000Z",
+    "archiveFilename": "ggandy.sit"
+  },
+  {
+    "name": "Gold-Blue Mac",
+    "year": "1999",
+    "about": "attachments/about-attz86tgxcx1xccke-image.png",
+    "showcase": "attachments/showcase-atts9x6ywjtnmgdfj-image.png",
+    "archiveFileName2": "gold-bluemac.sit",
+    "ksaSampler": "attachments/ksa-sampler-attefnmcoqzxkq1vm-image.png",
+    "created": "2026-09-19T22:07:17.000Z",
+    "archiveFilename": "gold-bluemac.sit"
+  },
+  {
+    "name": "Gold-Blue Mac II",
+    "year": "1999",
+    "about": "attachments/about-attueyauuazckvyna-image.png",
+    "showcase": "attachments/showcase-attlltlim2ksllexj-image.png",
+    "archiveFileName2": "gold-bluemacii.sit",
+    "ksaSampler": "attachments/ksa-sampler-attwnxa8nlwihbdks-image.png",
+    "created": "2026-09-19T22:07:17.000Z",
+    "archiveFilename": "gold-bluemacii.sit"
+  },
+  {
+    "name": "Gold Buttons And Blue Bars",
+    "year": "1999",
+    "about": "attachments/about-attnhmwwjxj3ffuke-image.png",
+    "showcase": "attachments/showcase-attg3bzmbyldmvonj-image.png",
+    "archiveFileName2": "goldbuttonsandbluebars.sit",
+    "ksaSampler": "attachments/ksa-sampler-attdnjqpouqcgjkp8-image.png",
+    "created": "2026-09-19T22:07:17.000Z",
+    "archiveFilename": "goldbuttonsandbluebars.sit"
+  },
+  {
+    "name": "Golden Breezes",
+    "year": "2000",
+    "about": "attachments/about-atteodegvvpzy6lpv-image.png",
+    "showcase": "attachments/showcase-attzvqzpzusu8tq1j-image.png",
+    "archiveFileName2": "goldenbreezes.sit",
+    "ksaSampler": "attachments/ksa-sampler-attbhlrygw1w9jluv-image.png",
+    "created": "2026-09-19T22:07:18.000Z",
+    "archiveFilename": "goldenbreezes.sit"
+  },
+  {
+    "name": "Gold Plate",
+    "authors": "Shurey",
+    "year": "1998",
+    "about": "attachments/about-attnvwsa9cuhz7pim-image.png",
+    "showcase": "attachments/showcase-attodepto2jyx3gsq-image.png",
+    "archiveFileName2": "goldplate.sit",
+    "ksaSampler": "attachments/ksa-sampler-attldyawghuqy9x50-image.png",
+    "created": "2026-09-19T22:07:18.000Z",
+    "archiveFilename": "goldplate.sit"
+  },
+  {
+    "name": "Gray Poles",
+    "year": "1999",
+    "about": "attachments/about-att3rpszqwcundf1c-image.png",
+    "showcase": "attachments/showcase-attxob1nhjayxik0j-image.png",
+    "archiveFileName2": "graypoles.sit",
+    "ksaSampler": "attachments/ksa-sampler-attcti3nt0ce8dbfq-image.png",
+    "created": "2026-09-20T03:07:38.000Z",
+    "archiveFilename": "graypoles.sit"
+  },
+  {
+    "name": "Gray Poles II",
+    "year": "1999",
+    "about": "attachments/about-attldvuxdqrzgl8rf-image.png",
+    "showcase": "attachments/showcase-attoyq9thnpy68gxa-image.png",
+    "archiveFileName2": "graypolesii.sit",
+    "ksaSampler": "attachments/ksa-sampler-atttft4alam2a899n-image.png",
+    "created": "2026-09-20T03:07:38.000Z",
+    "archiveFilename": "graypolesii.sit"
+  },
+  {
+    "name": "Gray Poles III",
+    "year": "1999",
+    "about": "attachments/about-attywi8rchqudv2vk-image.png",
+    "showcase": "attachments/showcase-attnbqyibxycz45l9-image.png",
+    "archiveFileName2": "graypolesiii.sit",
+    "ksaSampler": "attachments/ksa-sampler-attdbkbptpecxf3ro-file-32a79be4ca071cf6abae0c53ac1b99c3.tiff",
+    "created": "2026-09-20T03:07:39.000Z",
+    "archiveFilename": "graypolesiii.sit"
+  },
+  {
+    "name": "Green Land",
+    "year": "1998",
+    "about": "attachments/about-attg6hiowswv10hod-image.png",
+    "showcase": "attachments/showcase-attqlotxz8wx5wtx8-image.png",
+    "archiveFileName2": "greenland.sit",
+    "ksaSampler": "attachments/ksa-sampler-attd94zjl1zoivky4-image.png",
+    "created": "2026-09-20T03:07:39.000Z",
+    "archiveFilename": "greenland.sit"
+  },
+  {
+    "name": "Green Mean Mac",
+    "year": "1998",
+    "about": "attachments/about-atthk7pedtedhquvp-image.png",
+    "showcase": "attachments/showcase-atta67qnfhfce5giq-image.png",
+    "archiveFileName2": "greenmeanmac.sit",
+    "ksaSampler": "attachments/ksa-sampler-attbmevzxkbk4het2-image.png",
+    "created": "2026-09-20T03:07:39.000Z",
+    "archiveFilename": "greenmeanmac.sit"
+  },
+  {
+    "name": "Grey Bliss",
+    "year": "2000",
+    "about": "attachments/about-attgj2pb2oiuvynyg-image.png",
+    "showcase": "attachments/showcase-attcjmquvpzyzoaoy-image.png",
+    "archiveFileName2": "greybliss.sit",
+    "ksaSampler": "attachments/ksa-sampler-attxxznvryvn8xsb9-image.png",
+    "created": "2026-09-20T03:15:58.000Z",
+    "archiveFilename": "greybliss.sit"
+  },
+  {
+    "name": "Gynurasion",
+    "year": "1999",
+    "about": "attachments/about-attobfjqd1ryvtg0e-image.png",
+    "showcase": "attachments/showcase-attlurzdqpyirvvss-image.png",
+    "archiveFileName2": "gynurasion.sit",
+    "ksaSampler": "attachments/ksa-sampler-attjhxkupnxeaeuvp-image.png",
+    "created": "2026-09-20T03:15:58.000Z",
+    "archiveFilename": "gynurasion.sit"
+  },
+  {
+    "name": "Gynurasion G4",
+    "year": "1999",
+    "about": "attachments/about-att5witg40l1otj0i-image.png",
+    "showcase": "attachments/showcase-attvq5vyi7fxdvvsb-image.png",
+    "archiveFileName2": "gynurasiong4.sit",
+    "ksaSampler": "attachments/ksa-sampler-att1hnhitsywjgonn-image.png",
+    "created": "2026-09-20T03:15:58.000Z",
+    "archiveFilename": "gynurasiong4.sit"
+  },
+  {
+    "name": "Gynurasion G4.01",
+    "year": "1999",
+    "about": "attachments/about-attvqyvs1z8oxqmt4-image.png",
+    "showcase": "attachments/showcase-attqzrykijkdmvhab-image.png",
+    "archiveFileName2": "gynurasiong401.sit",
+    "ksaSampler": "attachments/ksa-sampler-attsesxwlhx4ykg8r-image.png",
+    "created": "2026-09-20T03:15:59.000Z",
+    "archiveFilename": "gynurasiong401.sit"
+  },
+  {
+    "name": "Gynurasion G4/Graph",
+    "year": "1999",
+    "about": "attachments/about-attdvqjoavdpkicfe-image.png",
+    "showcase": "attachments/showcase-att4zopvhdlejpivb-image.png",
+    "archiveFileName2": "gynurasiong4graph.sit",
+    "ksaSampler": "attachments/ksa-sampler-attvpueimtkfxbbfs-image.png",
+    "created": "2026-09-20T03:20:30.000Z",
+    "archiveFilename": "gynurasiong4graph.sit"
+  },
+  {
+    "name": "HallOSween",
+    "year": "1999",
+    "about": "attachments/about-attlqfd2sd7krw5gn-image.png",
+    "showcase": "attachments/showcase-att0sekaiesvuvzsm-image.png",
+    "archiveFileName2": "hallosween.sit",
+    "ksaSampler": "attachments/ksa-sampler-attitimjrgaa0qeqq-image.png",
+    "created": "2026-09-20T03:20:30.000Z",
+    "archiveFilename": "hallosween.sit"
+  },
+  {
+    "name": "Hard Candy",
+    "authors": "Gwendolyn",
+    "year": "1998",
+    "about": "attachments/about-atthgrhpdti5embbn-image.png",
+    "showcase": "attachments/showcase-attjxljuee904aucm-image.png",
+    "archiveFileName2": "hardcandygwen.sit",
+    "ksaSampler": "attachments/ksa-sampler-attgynuva11zbbdyx-image.png",
+    "created": "2026-09-20T03:20:30.000Z",
+    "archiveFilename": "hardcandygwen.sit"
   }
 ]
