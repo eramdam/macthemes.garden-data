@@ -47838,6 +47838,7 @@
   },
   {
     "name": "Blue Arrows",
+    "authors": "Carl Pitts",
     "year": "1998",
     "about": "attachments/about-attrnat0lej7xt9wk-image.png",
     "showcase": "attachments/showcase-attz0f64w8ns9hgzh-image.png",
@@ -47859,6 +47860,7 @@
   },
   {
     "name": "Carls Gone Crazy",
+    "authors": "Carl Pitts",
     "year": "1998",
     "about": "attachments/about-attgibuhc5arwxncr-image.png",
     "showcase": "attachments/showcase-attkjidrjs5fucav4-image.png",
@@ -48113,5 +48115,258 @@
     "ksaSampler": "attachments/ksa-sampler-attgynuva11zbbdyx-image.png",
     "created": "2026-09-20T03:20:30.000Z",
     "archiveFilename": "hardcandygwen.sit"
+  },
+  {
+    "name": "Haunted House",
+    "authors": "Martha Royer",
+    "year": "2000",
+    "about": "attachments/about-att54brfowwotbeye-image.png",
+    "showcase": "attachments/showcase-attezccsimaqbx5oc-image.png",
+    "archiveFileName2": "hauntedhouse.sit",
+    "ksaSampler": "attachments/ksa-sampler-attxenrvhki82ukax-image.png",
+    "created": "2026-09-20T03:20:31.000Z",
+    "archiveFilename": "hauntedhouse.sit"
+  },
+  {
+    "name": "HD 1.1",
+    "year": "1999",
+    "about": "attachments/about-attlbsejglyfezawn-image.png",
+    "showcase": "attachments/showcase-attzlehgl2qt8pjzl-image.png",
+    "archiveFileName2": "hd.sit",
+    "ksaSampler": "attachments/ksa-sampler-attx04lcylmfyffij-image.png",
+    "created": "2026-09-20T03:23:59.000Z",
+    "archiveFilename": "hd.sit"
+  },
+  {
+    "name": "HDRED 1.1",
+    "year": "1999",
+    "about": "attachments/about-attokbbh5jraxp7bn-image.png",
+    "showcase": "attachments/showcase-attrqfcdzuwyp82jj-image.png",
+    "archiveFileName2": "hdred.sit",
+    "ksaSampler": "attachments/ksa-sampler-att9fauxzkszalyg0-image.png",
+    "created": "2026-09-20T03:24:00.000Z",
+    "archiveFilename": "hdred.sit"
+  },
+  {
+    "name": "Hidden",
+    "year": "2000",
+    "about": "attachments/about-attrxcqfjdnf9acji-image.png",
+    "showcase": "attachments/showcase-attjwxf2t39fplkcb-image.png",
+    "archiveFileName2": "hidden.sit",
+    "ksaSampler": "attachments/ksa-sampler-atttjpklnn7ujzusj-image.png",
+    "created": "2026-09-20T03:24:00.000Z",
+    "archiveFilename": "hidden.sit"
+  },
+  {
+    "name": "Hidden Blue",
+    "year": "1998",
+    "about": "attachments/about-att23yy9jc8pej4vt-image.png",
+    "showcase": "attachments/showcase-att1tgyrvvnbqfn4o-image.png",
+    "archiveFileName2": "hiddenblue.sit",
+    "ksaSampler": "attachments/ksa-sampler-att9mzseufz35yx1k-image.png",
+    "created": "2026-09-20T03:24:00.000Z",
+    "archiveFilename": "hiddenblue.sit"
+  },
+  {
+    "name": "Hidden Red",
+    "year": "1998",
+    "about": "attachments/about-attqogfdivtbq3h3k-image.png",
+    "showcase": "attachments/showcase-attnjxpftg5ffius5-image.png",
+    "archiveFileName2": "hiddenred.sit",
+    "ksaSampler": "attachments/ksa-sampler-attnwqad4bf4rfzwr-image.png",
+    "created": "2026-09-21T03:45:42.000Z",
+    "archiveFilename": "hiddenred.sit"
+  },
+  {
+    "name": "Hiromi wants to be like Be",
+    "authors": "Chillyday Yosh Kondo",
+    "year": "1999",
+    "about": "attachments/about-attfy0n6l1mkhohum-image.png",
+    "showcase": "attachments/showcase-attwsbglt3hrijhr0-image.png",
+    "archiveFileName2": "hiromiagain.sit",
+    "ksaSampler": "attachments/ksa-sampler-atta25wsygputxohs-image.png",
+    "created": "2026-09-21T03:45:42.000Z",
+    "archiveFilename": "hiromiagain.sit"
+  },
+  {
+    "name": "Ho Ho Ho",
+    "authors": "Carl Pitts",
+    "year": "2000",
+    "about": "attachments/about-attg6elupytuhwknr-image.png",
+    "showcase": "attachments/showcase-attf8mu2hmkfetkjs-image.png",
+    "archiveFileName2": "hohoho.sit",
+    "ksaSampler": "attachments/ksa-sampler-attguolf2ridagsan-image.png",
+    "created": "2026-09-21T03:45:43.000Z",
+    "archiveFilename": "hohoho.sit"
+  },
+  {
+    "name": "Holiday Delights",
+    "authors": "Carl Pitts",
+    "year": "1999",
+    "about": "attachments/about-attwj0nd9cogeptqy-image.png",
+    "showcase": "attachments/showcase-attkxoezemh4s3kcj-image.png",
+    "archiveFileName2": "holidaydelights.sit",
+    "ksaSampler": "attachments/ksa-sampler-attduknp9xignxw49-image.png",
+    "created": "2026-09-21T03:45:43.000Z",
+    "archiveFilename": "holidaydelights.sit"
+  },
+  {
+    "name": "Holiday Delights II",
+    "authors": "Carl Pitts",
+    "year": "2000",
+    "about": "attachments/about-attmbahukkgjmflt1-image.png",
+    "showcase": "attachments/showcase-att0uyltyjcfwzsmh-image.png",
+    "archiveFileName2": "holidaydelightsii.sit",
+    "ksaSampler": "attachments/ksa-sampler-attjmxwmkjte7yyxe-image.png",
+    "created": "2026-09-20T03:24:00.000Z",
+    "archiveFilename": "holidaydelightsii.sit"
+  },
+  {
+    "name": "h O.S.t",
+    "year": "1999",
+    "about": "attachments/about-atti0puxyj2oiguep-image.png",
+    "showcase": "attachments/showcase-atttdcbiopzlqvgsx-image.png",
+    "archiveFileName2": "host.sit",
+    "ksaSampler": "attachments/ksa-sampler-attit9eiatezo09nd-image.png",
+    "created": "2026-09-20T03:20:31.000Z",
+    "archiveFilename": "host.sit"
+  },
+  {
+    "name": "h O.S.t 2",
+    "year": "1999",
+    "about": "attachments/about-attrzofmdgr6euxam-image.png",
+    "showcase": "attachments/showcase-att4fy4kpggcmsu7z-image.png",
+    "archiveFileName2": "host2.sit",
+    "ksaSampler": "attachments/ksa-sampler-attsyb9ulbj4kzjf9-image.png",
+    "created": "2026-09-20T03:20:31.000Z",
+    "archiveFilename": "host2.sit"
+  },
+  {
+    "name": "Hot and Dry",
+    "year": "1999",
+    "about": "attachments/about-attczlfcukqdv106k-image.png",
+    "showcase": "attachments/showcase-attc2jfwnehrzbzze-image.png",
+    "archiveFileName2": "hotanddry.sit",
+    "ksaSampler": "attachments/ksa-sampler-attwwxcks840fh6gd-image.png",
+    "created": "2026-09-20T03:20:31.000Z",
+    "archiveFilename": "hotanddry.sit"
+  },
+  {
+    "name": "Hot and Humid",
+    "year": "1999",
+    "about": "attachments/about-attv6az7r0v98kc2o-image.png",
+    "showcase": "attachments/showcase-attljnosnrjfgt7tf-image.png",
+    "archiveFileName2": "hotandhumid.sit",
+    "ksaSampler": "attachments/ksa-sampler-attojqqofzenyq7xy-image.png",
+    "created": "2026-09-20T03:20:32.000Z",
+    "archiveFilename": "hotandhumid.sit"
+  },
+  {
+    "name": "Inca Doo",
+    "year": "1998",
+    "about": "attachments/about-attzwtdyqkjzdgr56-image.png",
+    "showcase": "attachments/showcase-attw43ra0avvj4jc9-image.png",
+    "archiveFileName2": "incadoo.sit",
+    "ksaSampler": "attachments/ksa-sampler-attkevrevl6undfuk-image.png",
+    "created": "2026-09-21T03:55:33.000Z",
+    "archiveFilename": "incadoo.sit"
+  },
+  {
+    "name": "Infested OS",
+    "year": "1999",
+    "about": "attachments/about-attonc9jgonnsfp82-image.png",
+    "showcase": "attachments/showcase-attxatds1god9dpob-image.png",
+    "archiveFileName2": "infestedos.sit",
+    "ksaSampler": "attachments/ksa-sampler-attb8cvjajuvajfil-image.png",
+    "created": "2026-09-21T03:55:34.000Z",
+    "archiveFilename": "infestedos.sit"
+  },
+  {
+    "name": "Titanium LE",
+    "authors": "Toren Valimir",
+    "year": "2001",
+    "about": "attachments/about-attpaz1dglucfqfgz-image.png",
+    "showcase": "attachments/showcase-attas2nnong5sxgif-image.png",
+    "archiveFileName2": "iosxtitaniumle.sit",
+    "ksaSampler": "attachments/ksa-sampler-attokoamwdkdla3gt-image.png",
+    "created": "2026-09-21T03:55:34.000Z",
+    "archiveFilename": "iosxtitaniumle.sit"
+  },
+  {
+    "name": "Jean's Violets-snd",
+    "authors": "Martha Royer",
+    "year": "1998",
+    "about": "attachments/about-attm8bvhaqvheu8cl-image.png",
+    "showcase": "attachments/showcase-attllyipiv8euntew-image.png",
+    "archiveFileName2": "jeansvioletssound.sit",
+    "ksaSampler": "attachments/ksa-sampler-att2ueumrxtkn0e1m-image.png",
+    "created": "2026-09-21T03:55:34.000Z",
+    "archiveFilename": "jeansvioletssound.sit"
+  },
+  {
+    "name": "Love for 3 Oranges1.1",
+    "authors": "Patricia Erigero",
+    "year": "1998",
+    "about": "attachments/about-attdkoxgbmhte8lkn-image.png",
+    "showcase": "attachments/showcase-attoa67xivaxfmkby-image.png",
+    "archiveFileName2": "lovefor3oranges.sit",
+    "ksaSampler": "attachments/ksa-sampler-attobkotmlzitao3f-image.png",
+    "created": "2026-09-21T04:07:13.000Z",
+    "archiveFilename": "lovefor3oranges.sit"
+  },
+  {
+    "name": "Love for 3 Oranges1.1 \"Without\"",
+    "authors": "Patricia Erigero",
+    "year": "1998",
+    "about": "attachments/about-attlaorrccxxie3xu-image.png",
+    "showcase": "attachments/showcase-attxrjxhocgox7nkz-image.png",
+    "archiveFileName2": "lovefor3oranges.sit",
+    "ksaSampler": "attachments/ksa-sampler-attr39qkyifppuhyd-image.png",
+    "created": "2026-09-21T04:07:13.000Z",
+    "archiveFilename": "lovefor3oranges.sit"
+  },
+  {
+    "name": "Marble (Rose)",
+    "authors": "Kacey Lovelace",
+    "year": "1997",
+    "about": "attachments/about-attziz9l3d0yf62fq-image.png",
+    "showcase": "attachments/showcase-atte8gnvoe3k6nkvd-image.png",
+    "archiveFileName2": "marbles.sit",
+    "ksaSampler": "attachments/ksa-sampler-attncwrh8wdxsclos-image.png",
+    "created": "2026-09-21T04:07:13.000Z",
+    "archiveFilename": "marbles.sit"
+  },
+  {
+    "name": "Marble (Moss)",
+    "authors": "Kacey Lovelace",
+    "year": "1997",
+    "about": "attachments/about-attjxu91z18mrjs3r-image.png",
+    "showcase": "attachments/showcase-attn19sbocjj4l4vs-image.png",
+    "archiveFileName2": "marbles.sit",
+    "ksaSampler": "attachments/ksa-sampler-attanioxa6p266lqf-image.png",
+    "created": "2026-09-21T04:07:13.000Z",
+    "archiveFilename": "marbles.sit"
+  },
+  {
+    "name": "Marble (Grey)",
+    "authors": "Kacey Lovelace",
+    "year": "1997",
+    "about": "attachments/about-attc3tv6jbdrdoaqb-image.png",
+    "showcase": "attachments/showcase-attbcqbl904e5noe9-image.png",
+    "archiveFileName2": "marbles.sit",
+    "ksaSampler": "attachments/ksa-sampler-attpoqav9mpxs5wqp-image.png",
+    "created": "2026-09-21T04:15:49.000Z",
+    "archiveFilename": "marbles.sit"
+  },
+  {
+    "name": "Monolith",
+    "authors": "Stadio yoco",
+    "year": "1998",
+    "about": "attachments/about-attmffhkwsa5u5gkz-image.png",
+    "showcase": "attachments/showcase-att2xdwsqilyw2pnz-image.png",
+    "archiveFileName2": "monolithkaz.sit",
+    "ksaSampler": "attachments/ksa-sampler-attjsuz70dfetwji8-image.png",
+    "created": "2026-09-21T04:15:49.000Z",
+    "archiveFilename": "monolithkaz.sit"
   }
 ]
